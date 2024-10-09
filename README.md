@@ -1,0 +1,1 @@
+# plugins-keep-emoticons-as-text
